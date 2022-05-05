@@ -1,0 +1,39 @@
+.banner {
+  background-image: url(../../images/mountains.jpg);
+  background-size: cover;
+  height: 200px;
+  width: 100%;
+  margin: 0;
+  padding: 200px 0;
+}
+.container {
+  width: 900px;
+  margin:auto;
+  padding: 20px;
+}
+.banner h1 {
+  color: white;
+  font-weight: 50px;
+  font-size: 50px;
+  text-shadow: 5px 5px 8px rgba(0,0,0,0.8);
+  margin: 0;
+}
+.banner h2 {
+  color: rgb(0, 0, 0);
+  font-weight: 50px;
+  font-size: 30px;
+  text-shadow: 5px 5px 8px rgba(0,0,0,0.4);
+  margin: 0;
+}
+.btn-about-me {
+  color: rgb(65, 65, 65);
+  border-radius: 25px;
+  padding: 16px;
+  background-color: #00b9a6;
+  font-weight: bolder;
+}
+.btn-about-me:hover {
+  color: rgb(44, 44, 44);
+  padding: 17px;
+  background-color: cornflowerblue;
+}
